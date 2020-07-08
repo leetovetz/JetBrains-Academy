@@ -1,2 +1,2 @@
 # JetBrains-Academy
-Java Courses
+Java Courses and different tasks from other courses

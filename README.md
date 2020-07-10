@@ -1,5 +1,5 @@
 
-# <strong>JetBrains-Academy</strong>
+# <strong>JetBrains-Academy and others</strong>
 
 Java Courses and different tasks from other courses
 

@@ -3,9 +3,9 @@
 
 Java Courses and different tasks from other courses
 
-<a href="https://hyperskill.org/">Training plan from JetBrains-Academy</a>
+[JB] <a href="https://hyperskill.org/">Training plan from JetBrains-Academy</a> 
 
-I'll also be taking a course 
-<a href="https://www.udemy.com/course/java-oca-oracle/">Java for beginners: from zero to Oracle certificate</a>
+I'll also be taking a course <br>
+[OC] <a href="https://www.udemy.com/course/java-oca-oracle/">Java for beginners: from zero to Oracle Certificate</a> 
 
-and the <a href="https://www.udemy.com/user/devstudy-net/">DevStudy.net</a> course.
+[DS] and the <a href="https://www.udemy.com/user/devstudy-net/">DevStudy.net</a> course. 

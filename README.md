@@ -1,5 +1,5 @@
 
-# <strong><a href="https://hyperskill.org/join/5c60c124">JetBrains-Academy and others</a></strong>
+# <strong><a href="https://hyperskill.org/join/5c60c124">JetBrains-Academy and others.</a></strong>
 
 Java Courses and different tasks from other courses.
 

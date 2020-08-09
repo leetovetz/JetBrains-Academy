@@ -3,7 +3,7 @@
 
 Java Courses and different tasks from other courses.
 
-[JB] - <a href="https://hyperskill.org/"target="_blank">Training plan from JetBrains-Academy</a> <br>
+[JB] - <a href="https://hyperskill.org/" target="_blank">Training plan from JetBrains-Academy</a> <br>
 [ZT] - <a href="https://www.udemy.com/course/java-oca-oracle/">Java Courses by Zaur Tregulov</a> <br>
 [DS] -  <a href="https://www.udemy.com/user/devstudy-net/">DevStudy.net course </a> <br>
 [YT] -  <a href="https://www.youtube.com/channel/UCAkz1bYTFyaNa9oTFtOscCg/playlists">Lessons from YouTube </a> <br>

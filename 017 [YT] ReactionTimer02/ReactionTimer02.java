@@ -1,6 +1,5 @@
 /*
- * The task. 
- * Create a program that will count the time to solve the problem of adding two numbers. 
+ * The task. Create a program that will count the time to solve the problem of adding two numbers. 
  */
 
 

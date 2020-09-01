@@ -10,7 +10,7 @@ Java Courses and different tasks from other courses.
 [AX] -  <a href="https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA">Java Courses by Alex Lee. </a> <br>
 [SA] -  <a href="https://www.youtube.com/channel/UCAkz1bYTFyaNa9oTFtOscCg/playlists">Lessons by Sergey Arkhipov.  </a> <br>
 [HR] -  <a href="https://www.hackerrank.com/">Tasks from the website hackerrank.com.  </a> <br>
-[LC] -  <a href="https://leetcode.com//">Tasks from the website leetcode.com.  </a> <br>
+[LC] -  <a href="https://leetcode.com/">Tasks from the website leetcode.com.  </a> <br>
 
 
 

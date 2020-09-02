@@ -11,6 +11,6 @@ Java Courses and different tasks from other courses.
 [SA] -  <a href="https://www.youtube.com/channel/UCAkz1bYTFyaNa9oTFtOscCg/playlists">Lessons by Sergey Arkhipov.  </a> <br>
 [HR] -  <a href="https://www.hackerrank.com/">Tasks from the website hackerrank.com.  </a> <br>
 [LC] -  <a href="https://leetcode.com/">Tasks from the website leetcode.com.  </a> <br>
-
+[PK] -  <a href="https://prog.kiev.ua/java-online.html">Tasks from the website prog.kiev.ua.  </a> <br>
 
 

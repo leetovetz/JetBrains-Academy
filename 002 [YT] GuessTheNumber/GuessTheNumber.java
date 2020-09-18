@@ -30,3 +30,6 @@ public class GuessTheNumber {
 	} while (sc.next().equalsIgnoreCase("Y"));
 	}
 }
+
+
+

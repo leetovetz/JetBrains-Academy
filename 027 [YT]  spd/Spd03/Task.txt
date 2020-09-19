@@ -1,0 +1,152 @@
+Variant 1
+
+
+
+Important: 
+
+Save your solution to the java-task-v1.java file and commit to the master branch. 
+
+
+It's time to solve the problem: 30 minutes. 
+You can use GitLab Web IDE. 
+
+
+
+Write as clean a code as possible.
+
+
+
+Condition of the task:
+The essence of TestResult 
+contains fields:
+
+user - candidate, 
+
+who has been tested;
+
+score - number of points 
+for the test (0...100);
+
+practice - whether or not a practical task has been done.
+
+
+
+This is a TestResult list with test results of SPD-University candidates. 
+
+for the Java course.
+Describe the TestResult class (fields and methods to understand 
+the solution logic). 
+Create and fill with data the list of TestResult entities.
+
+Write a method that will print 
+statistics on the screen, how many candidates 
+there were and how many of them passed 
+(Passed) and Failed testing. 
+
+Example 
+output:
+Totals: 10; Passed: 7 (70%), Failed: 3 (30%)
+
+Notes:
+
+The test is Passed, 
+
+if the score is greater than or equal to the average score of the whole group 
+and the practice is counted. 
+Otherwise, the test is considered Failed.
+
+
+
+The average score of a group equals the sum of all scores / by their number.
+
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================================================================
+
+Variant 1
+
+Важно! Сохрани свое решение в файл java-task-v1.java и сделай коммит в ветку master. 
+
+Время на решение задачи: 30 минут. 
+Можно пользоваться GitLab Web IDE. 
+
+
+Пиши как можно более “чистый код”.
+
+
+
+Условие задачи:
+Сущность TestResult содержит поля:
+
+user - кандидат, 
+
+который проходил тестирование;
+
+score - количество баллов за тест (0..100);
+
+practice - сделана или нет практическая задача.
+
+
+Дан список TestResult с результатами тестирования кандидатов в SPD-University 
+на курс Java.
+Опиши класс TestResult (поля и методы, чтобы была понятна логика решения). 
+Создай и наполни данными список сущностей TestResult.
+Напиши метод, который выведет 
+на экран статистику, сколько всего было кандидатов и сколько из них прошли 
+(Passed) и завалили (Failed) тестирование. 
+
+Пример вывода:
+Totals: 10; Passed: 7 (70%), Failed: 3 (30%)
+
+Примечания:
+
+Тест считается Passed, 
+если score больше или равно среднему балу всей группы и practice засчитан. 
+В противном случае тест считается проваленным (Failed).
+
+
+Средний балл группы равен сумме всех score / на их количество.
+
+
+=============================================================================
+
+
+
+# Variant 1
+**Важно!** Сохрани свое решение в файл **java-task-v1.java** и сделай коммит в ветку **master**. <br />
+Время на решение задачи: 30 минут. <br />
+Можно пользоваться **GitLab Web IDE**. <br />
+Пиши как можно более “чистый код”.
+
+### Условие задачи:
+Сущность **TestResult** содержит поля:
+- user - кандидат, который проходил тестирование;
+- score - количество баллов за тест (0..100);
+- practice - сделана или нет практическая задача.
+
+Дан список **TestResult** с результатами тестирования кандидатов в SPD-University на курс Java.
+
+Опиши класс TestResult (поля и методы, чтобы была понятна логика решения). Создай и наполни данными список сущностей TestResult.
+
+Напиши метод, который выведет на экран статистику, сколько всего было кандидатов и сколько из них прошли (*Passed*) и завалили (*Failed*) тестирование. <br />
+Пример вывода:
+`Totals: 10; Passed: 7 (70%), Failed: 3 (30%)`
+ 
+### Примечания: 
+- Тест считается Passed, если score больше или равно среднему балу всей группы и practice засчитан. В противном случае тест считается проваленным (Failed).
+- **Средний балл группы** равен сумме всех score / на их количество. 

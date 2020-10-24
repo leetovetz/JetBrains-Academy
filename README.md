@@ -12,9 +12,7 @@ Java Courses and different tasks from other courses.
 [HR] -  <a href="https://www.hackerrank.com/">Tasks from the website hackerrank.com.  </a> <br>
 [LC] -  <a href="https://leetcode.com/">Tasks from the website leetcode.com.  </a> <br>
 [PK] -  <a href="https://prog.kiev.ua/java-online.html">Tasks from the website prog.kiev.ua.  </a> <br>
-
-
-
+[GH] - <a href="http://geekhub.ck.ua/season-x/#java-for-web">Java Courses by GH, Java for Web.</a> <br>
 
 
 

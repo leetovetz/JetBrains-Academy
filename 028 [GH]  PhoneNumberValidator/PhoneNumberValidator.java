@@ -8,7 +8,7 @@ package com.lee.task01;
 import java.util.Scanner; 
 import java.util.InputMismatchException;
 
-public class PhoneNumberValidator {
+public class Main {
 
 	public static void main(String[] args) {
 		int summNumber;
@@ -49,17 +49,20 @@ public class PhoneNumberValidator {
         }
     }
 
-    public static int readNumber() {
+	private static int readNumber() {
         try {
             Scanner getNumber = new Scanner(System.in);
             int number = getNumber.nextInt();
-
+            
             if (number > 999999999 || number < 100000000) {
                 System.out.println("Hmm. Your mobile number should have been 9 digits. "
     					+ "Let's try to enter your phone number again. ");
                 return 0;
+                
             } else {
+            	getNumber.close();
                 return number;
+                
             }
         } catch (InputMismatchException e) {
             System.out.println("Hmm. Doesn't your phone number consist only of numbers? "
@@ -67,17 +70,17 @@ public class PhoneNumberValidator {
             return 0;
         }
     }
-    
-    public static int iterationCount(int numb) {
+		
+	private static int iterationCount(int numb) {
         int count = 1;
         while (numb >= 10) {
-            numb = sumNumbers(numb);
+            numb = numberSumCalculator(numb);
             System.out.println(count++ + "round" + " sum of digits = " + numb);
         }
         return numb;
     }
 
-    public static int sumNumbers(int number) {
+	private static int numberSumCalculator(int number) {
         int totalNumbers = 0;
         while (number > 0) {
             totalNumbers = totalNumbers + (number % 10);

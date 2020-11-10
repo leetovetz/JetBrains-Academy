@@ -1,10 +1,9 @@
 // The task. Create a program that will show duplicate characters in a sentence. 
 
-
 public class DupChars {
 
 	public static void main(String[] args) {
-		
+
 		String sentence = "How many duplicates are there?";
 		System.out.println(sentence);
 
@@ -19,9 +18,6 @@ public class DupChars {
 			}
 			characters += current;
 		}
-
 		System.out.println(duplicates);
 	}
-
-	
 }

@@ -3,9 +3,6 @@
  * To create a program that counts how old you are. 
  */
 
-
-
-
 import java.time.LocalDate;
 import java.time.Period;
 
@@ -21,5 +18,4 @@ public class AgeCalc {
 		System.out.println(birthDate);
 		System.out.println(years);
 	}
-
 }

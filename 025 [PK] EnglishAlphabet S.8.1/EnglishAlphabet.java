@@ -9,16 +9,17 @@ public class EnglishAlphabet {
 		printEnglishAlphabet();
 
 	}
-	private static void printEnglishAlphabet() {
-        printEnglishAlphabet('A', 'Z');
-        System.out.println(" ");
-        printEnglishAlphabet('a', 'z');
-        
-    }
 
-    private static void printEnglishAlphabet(final char from, final char to) {
-        for (char ch = from; ch <= to; ch++) {
-            System.out.print(ch + " ");
-        }
-    }
+	private static void printEnglishAlphabet() {
+		printEnglishAlphabet('A', 'Z');
+		System.out.println(" ");
+		printEnglishAlphabet('a', 'z');
+
+	}
+
+	private static void printEnglishAlphabet(final char from, final char to) {
+		for (char ch = from; ch <= to; ch++) {
+			System.out.print(ch + " ");
+		}
+	}
 }

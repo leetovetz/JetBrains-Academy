@@ -4,7 +4,6 @@
  * Replace the 1st and 3rd words and display the result.
  */
 
-
 public class ChangingWords {
 
 	public static void main(String[] args) {
@@ -13,7 +12,7 @@ public class ChangingWords {
 		System.out.println(newLine);
 
 	}
-		
+
 	private static String replaceFirstAndThird(final String line) {
 		final String[] words = line.split(" ");
 		return (words[2] + " " + words[1] + " " + words[0]);

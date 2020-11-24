@@ -54,7 +54,6 @@ public class Main {
 		}
 		yourChoice.close();
 	}
-
 }
 
 /*
@@ -68,6 +67,7 @@ public class Main {
  * of corresponding class needs to be created in memory. Use object methods to
  * fetch and display calculated area and perimeter values. Note that Rectangle
  * and Square shapes can be represented as 2 equivalent Triangle figures, hence
- * when you display information about Rectangle and Square, also display
+ * when you display information about Rectangle and Square, 
+ * also display
  * properties of Triangles from which they comprise of.
  */

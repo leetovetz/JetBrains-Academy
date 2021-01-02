@@ -15,7 +15,3 @@ Java Courses and different tasks from other courses.
 [GH] - <a href="http://geekhub.ck.ua/season-x/#java-for-web">Java Courses by GH, Java for Web.</a> <br>
 [JM] -  <a href="https://www.youtube.com/c/alishevN/videos">Java marathon with youtube channel Alishev </a> <br>
 
-
-
-
-

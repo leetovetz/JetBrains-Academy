@@ -40,7 +40,8 @@ public class Main {
 				return;
 
 			} else {
-				System.out.println("Hmm. Doesn't your phone number consist only of 10 numbers? \nLet's try to enter only numbers.");
+				System.out.println(
+						"Hmm. Doesn't your phone number consist only of 10 numbers? \nLet's try to enter only numbers.");
 			}
 		}
 	}

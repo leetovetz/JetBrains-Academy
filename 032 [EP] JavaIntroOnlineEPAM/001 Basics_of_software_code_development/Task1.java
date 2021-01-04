@@ -1,5 +1,5 @@
 /*
- * Find the value of the function: z = ( (a – 3 ) * b / 2) + c
+ * Find the value of the function: z = ( (a â€“ 3 ) * b / 2) + c
  */
 
 package Basics;
@@ -16,6 +16,7 @@ public class Task1 {
 		double b = scanner.nextDouble();
 		double c = scanner.nextDouble();
 		scanner.close();
+		
 		System.out.println(function(a, b, c));
 	}
 

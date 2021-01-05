@@ -18,10 +18,10 @@ public class Task2 {
 		double c = scanner.nextDouble();
 		scanner.close();
 
-		System.out.println(function(a, b, c));
+		System.out.println(getValue(a, b, c));
 	}
 
-	private static double function(double a, double b, double c) {
+	private static double getValue(double a, double b, double c) {
 		return (b + Math.sqrt(Math.pow(b, 2) + 4 * a * c)) - Math.pow(a, 3) * c + Math.pow(b, -2);
 
 	}

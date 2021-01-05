@@ -16,10 +16,11 @@ public class Task1 {
 		double b = scanner.nextDouble();
 		double c = scanner.nextDouble();
 		scanner.close();
-		System.out.println(function(a, b, c));
+		
+		System.out.println(getValue(a, b, c));
 	}
 
-	private static double function(double a, double b, double c) {
+	private static double getValue(double a, double b, double c) {
 		return ((a - 3) * b / 2) + c;
 	}
 }

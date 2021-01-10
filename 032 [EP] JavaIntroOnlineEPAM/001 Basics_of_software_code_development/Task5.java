@@ -2,7 +2,7 @@
  * Given a natural number T, 
  * which represents the duration of elapsed time in seconds. 
  * Output the given value of duration in hours, 
- * minutes and seconds in the following form: HHH MMmin SSc
+ * minutes and seconds in the following form: HH hours MM minutes SS seconds
  */
 
 package Basics;
